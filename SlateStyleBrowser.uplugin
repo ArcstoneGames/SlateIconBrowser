@@ -1,7 +1,7 @@
 ﻿{
   "FileVersion": 3,
   "Version": 1,
-  "VersionName": "1.0",
+  "VersionName": "2.1.0",
   "FriendlyName": "Slate Style Browser",
   "Description": "Browse Slate styles for all Editor styles and copy their code snippets",
   "Category": "Programming",
